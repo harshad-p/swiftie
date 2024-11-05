@@ -1,2 +1,2 @@
 # swifty
-Learning to be a Swiftie (Swift Programmer)
+Learning to be a Swifty (Swift Programmer)
